@@ -1,0 +1,9 @@
+{
+  "name": "AI Visual Assistant",
+  "description": "A mobile application that provides two AI-powered visual assistance modes: Fast (simulated on-device inference) and Scene Descriptor (cloud-based processing with Gemini).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
